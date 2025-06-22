@@ -20,7 +20,7 @@ A lightweight Bash script that checks a list of DNS servers and picks the first 
 > **Warning**: You need to run this script as `root` to modify `/etc/resolv.conf`.
 
 ```bash
-sudo bash dns-selector.sh
+sudo bash dns.sh
 ```
 
 ---
@@ -61,7 +61,7 @@ If successful, the last message will be:
 ### 🧪 نحوه استفاده
 
 ```bash
-sudo bash dns-selector.sh
+sudo bash dns.sh
 ```
 
 **توجه**: نیاز به دسترسی root دارید.
@@ -85,7 +85,7 @@ sudo bash dns-selector.sh
 ### 📌 الاستخدام
 
 ```bash
-sudo bash dns-selector.sh
+sudo bash dns.sh
 ```
 
 **تنبيه**: يجب تشغيل السكربت بصلاحيات root.
